@@ -148,13 +148,13 @@ height: 500px;
     font-weight: bold;
 }
 /* ad section */
-.ad-container {
+.d-container {
     height: 250px;;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.ad {
+.d {
     background-color: #3882f6;
     color:  #e5e7eb;
     display: flex;
@@ -163,10 +163,10 @@ height: 500px;
     padding: 24px 48px;
     border-radius: 1px;
 }
-.ad-text > h4 {
+.d-text > h4 {
     font-weight: bold;
 }
-.ad-button{
+.d-button{
     border: solid 2px white;
     
 }
